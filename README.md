@@ -41,3 +41,6 @@ Include multiple health monitoring systems and not restricting it to just ECG, m
 Size reduction
 
 Ability to monitor multiple heart rates
+
+# To-do
+Add option to customise MQTT server in Android app
